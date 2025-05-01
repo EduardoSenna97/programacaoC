@@ -4,7 +4,7 @@
 
 
 int main(){
-/*	
+	
 
 	printf("Operadores Aritmeticos\n\n");
 	
@@ -26,10 +26,13 @@ int main(){
 	printf("O resultado da soma e: %d\n", soma);
 	printf("O resultado da substrcao e: %d\n", subtracao);
 	printf("O resultado da multiplicacao e: %d\n", multiplicacao);
-	printf("O resultado da divisao e: %.2f\n", divisao);*/
+	printf("O resultado da divisao e: %.2f\n", divisao);
 
-	/*
+	
 	printf("Atribuição\n\n");
+	
+	/*
+	
 	Atribuição:
 	
 	Atribuição simples (=);
@@ -40,7 +43,8 @@ int main(){
 	
 	*/
 	
-	/*
+	
+	
 	int numero3, resultado;
 	numero3 = 10;
 	
@@ -67,7 +71,9 @@ int main(){
 	
 	printf("Operadores de incremento e decremento: \n\n");
 	
-	/* Incremento (++) ~ Decremento (--);
+	/* 
+	
+	Incremento (++) ~ Decremento (--);
 	
 	Pré-Incremento ( ++a )
 	Pós-Incremento ( a++ )
